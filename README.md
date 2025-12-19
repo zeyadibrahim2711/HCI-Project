@@ -1,31 +1,44 @@
-# HCI-Project
-- This project improves a college website using HCI principles.
+# 🎨 HCI Website Redesign Project
 
-## Problems in the Old Design
-- Outdated design  
-- Inconsistent colors  
-- Old and hard-to-read font  
-- Hidden content that needed extra clicks  
-- Unclear navigation  
-- Missing important pages (Contact Us)
+This project focuses on improving a **college website** by applying core **Human–Computer Interaction (HCI)** principles.
+The goal is to enhance **usability**, **navigation**, and **overall user experience** through a clean and modern redesign.
 
-## Improvements in the New Design
-- Modern and clean design  
-- Consistent and well-organized colors  
-- Clear and readable text  
-- All content placed in clear sections  
-- Fewer clicks needed to access information  
-- New pages added (Contact Us)
+---
 
-## Conclusion
-- Better usability and user experience  
-- Easier navigation  
-- Clear and organized content  
-- More professional website
+## ❌ Issues in the Original Design
 
-## Project Participants
+* Outdated and unattractive interface
+* Inconsistent color scheme
+* Old, hard-to-read typography
+* Important content hidden behind multiple clicks
+* Confusing navigation structure
+* Missing essential pages (e.g., *Contact Us*)
 
-- زياد إبراهيم عبد اللطيف عراقيب  
-- مصطفى أحمد أبو اليزيد الصعيدي  
-- محمد محمد رمضان شاهين 
+---
+
+## ✅ Improvements in the Redesigned Version
+
+* Modern, clean, and user-friendly layout
+* Consistent and well-structured color palette
+* Clear and readable typography
+* Content organized into clear sections
+* Reduced number of clicks to access information
+* Added essential pages (*Contact Us*)
+
+---
+
+## 🌟 Results & Benefits
+
+* Improved usability and user experience
+* Faster and more intuitive navigation
+* Clear, organized, and accessible content
+* More professional and trustworthy website appearance
+
+---
+
+## 👥 Project Team
+
+* **زياد إبراهيم عبد اللطيف عراقيب**
+* **مصطفى أحمد أبو اليزيد الصعيدي**
+* **محمد محمد رمضان شاهين**
 
